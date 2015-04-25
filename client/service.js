@@ -8,7 +8,8 @@
         }
       ];
 
-      var url = "http://localhost:9000/restaurants";
+      var url = "http://d-vine.herokuapp.com/restaurants"
+      // var url = "http://localhost:9000/restaurants";
 
       var getRestaurants = function () {
         // return restaurants;
